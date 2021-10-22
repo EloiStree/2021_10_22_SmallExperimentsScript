@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elositree.smallscriptexperiments",                              
+  "displayName": "Small script experiments",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Group of small experiments under the format of small scripts.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2021_10_22_SmallExperimentsScript.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

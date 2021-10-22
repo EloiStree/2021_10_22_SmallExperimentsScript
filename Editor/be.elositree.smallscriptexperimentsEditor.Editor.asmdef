@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.elositree.smallscriptexperimentsEditor",          
+    "references": ["be.elositree.smallscriptexperiments"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   
